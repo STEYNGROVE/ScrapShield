@@ -1,0 +1,8 @@
+{
+  "name": "ScrapShield AI Control Center",
+  "description": "Enterprise-grade dashboard for the ScrapShield AI Edge/Core server, providing real-time system health, video stream monitoring, and evidence locker management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
